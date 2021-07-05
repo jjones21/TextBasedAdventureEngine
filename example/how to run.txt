@@ -1,0 +1,3 @@
+If you have java 1.8 installed you can run this example jar from the command line with:
+
+java -jar TextGameExample.jar
